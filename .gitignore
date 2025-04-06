@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.eggs/
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+venv.bak/
+venv/
+
+# VS Code settings folder
+.vscode/
+
+# PyCharm settings folder
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+
+# Flake8
+.flake8
+
+# Pytest cache
+.pytest_cache/
+
+# Environments
+.env
+.env.*
+.envrc
+
+# Secrets and sensitive data
+*.env
+*.json
+*.yml
+*.yaml
+
+# Pytest and coverage
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Eclipse project files
+.project
+
+# JetBrains IDE files
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python egg files
+*.egg
